@@ -1,6 +1,5 @@
-# Drumkit
-### An Web-App using javascript for playing Drum.
-### Enjoy your leasure time now with DrumKit
-
-
+#About
+A drumkit app using javascript 
+it creates sound by tapping!!!
+music is good for health
 
