@@ -17,36 +17,59 @@ footer {
 }
 
 .w {
-background-image:url(../images/crash.png)
+background-image:url(../images/crash.png);
+background-size: 30%;
+background-repeat: no-repeat;
+background-position: center;
+
+
 }
 
 .a {
-  background-image:url(../images/kick.png)
+  background-image:url(../images/kick.png);
+  background-size: 90%;
+background-repeat: no-repeat;
+background-position: center;
 
 }
 
 .s {
-  background-image:url(../images/snare.png)
+  background-image:url(../images/snare.png);
+  background-size: 60%;
+background-repeat: no-repeat;
+background-position: center;
 
 }
 
 .d {
-  background-image:url(../images/tom1.png)
+  background-image:url(../images/tom1.png);
+  background-size: 60%;
+background-repeat: no-repeat;
+background-position: center;
 
 }
 
 .j {
-  background-image:url(../images/tom2.png)
+  background-image:url(../images/tom2.png);
+  background-size: 60%;
+  background-repeat: no-repeat;
+  background-position: center;
 
 }
 
 .k {
-  background-image:url(../images/tom3.png)
+  background-image:url(../images/tom3.png);
+  background-size: 60%;
+  background-repeat: no-repeat;
+  background-position: center;
 
 }
 
 .l {
-  background-image:url(../images/tom4.png)
+  background-image:url(../images/tom4.png);
+  background-size: 60%;
+  background-repeat: no-repeat;
+  background-position: center;
 
 }
 
@@ -71,7 +94,7 @@ background-image:url(../images/crash.png)
 .drum {
   outline: none;
   border: 10px solid #404B69;
-  font-size: 5rem;
+  font-size: 2rem;
   font-family: 'Arvo', cursive;
   line-height: 2;
   font-weight: 900;
