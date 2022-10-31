@@ -1,4 +1,4 @@
-#About
+##About
 A drumkit app using js 
 it creates sound by tapping at different spaces!!!
 musics is a part of real life
