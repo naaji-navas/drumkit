@@ -1,5 +1,5 @@
 ##About
-A drumkit app using js 
+A drumkit app using javascript 
 
 
 it creates sound by tapping at different spaces!!!
